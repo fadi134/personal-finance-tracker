@@ -1,0 +1,11 @@
+date,description,amount,transaction_type,category
+2026-09-01,Lunch at Restaurant,350,Expense,Food
+2026-09-02,Salary Credit,50000,Income,Salary
+2026-09-03,Uber Ride,220,Expense,Transport
+2026-09-04,Electricity Bill,1850,Expense,Bills
+2026-09-05,Amazon Shopping,2499,Expense,Shopping
+2026-09-06,Movie Tickets,600,Expense,Entertainment
+2026-09-07,Freelance Payment,12000,Income,Freelance
+2026-09-08,Petrol,1500,Expense,Transport
+2026-09-09,Medical Store,780,Expense,Healthcare
+2026-09-10,Internet Recharge,799,Expense,Utilities

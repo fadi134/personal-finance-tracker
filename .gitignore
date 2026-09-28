@@ -1,0 +1,24 @@
+# Python virtual environment
+backend/venv/
+
+# Python cache
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# SQLite database
+backend/finance.db
+*.db
+
+# Node
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
