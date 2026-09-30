@@ -4,6 +4,7 @@ from app.database.init_db import create_tables
 from app.api.routes import (
     transactions,
     import_routes,
+    pdf_import,
 )
 
 app = FastAPI(
@@ -15,6 +16,7 @@ create_tables()
 
 app.include_router(transactions.router)
 app.include_router(import_routes.router)
+app.include_router(pdf_import.router)
 register_exception_handlers(app)
 
 
